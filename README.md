@@ -1,0 +1,10 @@
+<img width="1381" height="581" alt="daoImpl2" src="https://github.com/user-attachments/assets/8bc56f93-884f-4d8f-8c0d-883027fcf74c" />
+<img width="1102" height="587" alt="daoImpl" src="https://github.com/user-attachments/assets/6f764c1c-c084-469b-8fea-5f1e51d1e823" />
+<img width="367" height="845" alt="structure" src="https://github.com/user-attachments/assets/7e47b324-a3ca-4d55-a6f2-a824f7a0644b" />
+<img width="1445" height="932" alt="Presentation2" src="https://github.com/user-attachments/assets/729cd87a-2285-4768-bd3d-d0d8a11bb8ea" />
+<img width="1487" height="791" alt="poml" src="https://github.com/user-attachments/assets/7c7573c3-2c69-4d8e-bc5c-771fd331b767" />
+<img width="1512" height="881" alt="metierImpl" src="https://github.com/user-attachments/assets/c5bffce3-c235-4a8b-bac5-714c0a1eecf0" />
+<img width="1452" height="440" alt="Imetier" src="https://github.com/user-attachments/assets/3778bdcf-df33-4d40-b5ec-55942dd559a4" />
+<img width="1482" height="906" alt="idao" src="https://github.com/user-attachments/assets/771d1f43-3fb8-441e-8b07-a6fb63c8ba4f" />
+<img width="1890" height="1012" alt="Execution2" src="https://github.com/user-attachments/assets/9d7cc3e0-26ff-425a-b8fc-30a8235c9c2a" />
+<img width="1527" height="897" alt="Execution1" src="https://github.com/user-attachments/assets/9b8e4487-5b40-4798-9cfa-b96c9baa68e3" />
